@@ -1,0 +1,7 @@
+C:\Users\asmas\Desktop\First_Project\ServerSide\bin\Debug\ServerSide.exe.config
+C:\Users\asmas\Desktop\First_Project\ServerSide\bin\Debug\ServerSide.exe
+C:\Users\asmas\Desktop\First_Project\ServerSide\bin\Debug\ServerSide.pdb
+C:\Users\asmas\Desktop\First_Project\ServerSide\obj\Debug\ServerSide.csproj.AssemblyReference.cache
+C:\Users\asmas\Desktop\First_Project\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\asmas\Desktop\First_Project\ServerSide\obj\Debug\ServerSide.exe
+C:\Users\asmas\Desktop\First_Project\ServerSide\obj\Debug\ServerSide.pdb
